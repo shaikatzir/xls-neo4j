@@ -11,6 +11,9 @@ Sample output :
 
 ![improved admin interface screenshot](/docs/AllItemsSample.png)
 
+### Requirements
+* [py2neo-1.5.1](https://github.com/nigelsmall/py2neo)
+* [xlwt-0.7.5](https://pypi.python.org/pypi/xlwt)
 
 ### Installation
 
